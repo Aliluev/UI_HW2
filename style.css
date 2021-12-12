@@ -1,0 +1,32 @@
+*{
+    font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+    color: #656642;
+}
+
+table {
+    text-align: center;
+    border-spacing: 5px;
+    color: #656642;
+    border: 2px solid brown;
+    border-radius: 11px;
+    margin: auto
+    
+    
+}
+
+h2 { 
+    font-family: "Trebuchet MS", Verdana, Arial, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    margin: 5% 0%;
+}
+
+tr:nth-child(even) {
+    background: #fff5c2;
+}
+tr:nth-child(odd) {
+    background: #ffff7a;
+}
